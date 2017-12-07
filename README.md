@@ -1,4 +1,6 @@
 # xerxes
+//only linux
+
 gcc -o xerxes xerxes.c 
 
 chomd 755 xerxes
